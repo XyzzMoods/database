@@ -1,1 +1,243 @@
-# database
+[
+  {
+    "name": "Fauzan Akbar",
+    "email": "fauzan@mail.com",
+    "address": "Jakarta Selatan",
+    "ig": "@fauzan_fake",
+    "ip": "192.168.1.10",
+    "device": "Samsung Galaxy S21"
+  },
+  {
+    "name": "Alya Putri",
+    "email": "alya@mail.com",
+    "address": "Bandung Barat",
+    "ig": "@alya_putri",
+    "ip": "10.0.0.1",
+    "device": "iPhone 13 Pro"
+  },
+  {
+    "name": "Rizky Hidayat",
+    "email": "rizky@mail.com",
+    "address": "Surabaya Pusat",
+    "ig": "@rizkyhacker",
+    "ip": "172.16.1.2",
+    "device": "Xiaomi Redmi Note 10"
+  },
+  {
+    "name": "Lutfi Alamsyah",
+    "email": "lutfi@mail.com",
+    "address": "Depok",
+    "ig": "@lutfi_xx",
+    "ip": "192.168.88.8",
+    "device": "Oppo A95"
+  },
+  {
+    "name": "Dina Salsabila",
+    "email": "dina@mail.com",
+    "address": "Bekasi Utara",
+    "ig": "@dina_sal",
+    "ip": "10.10.10.10",
+    "device": "Realme 7"
+  },
+  {
+    "name": "Iqbal Fadhil",
+    "email": "iqbal@mail.com",
+    "address": "Yogyakarta",
+    "ig": "@iqbalreal",
+    "ip": "172.20.30.1",
+    "device": "POCO X3 Pro"
+  },
+  {
+    "name": "Nadya Azzahra",
+    "email": "nadya@mail.com",
+    "address": "Sidoarjo",
+    "ig": "@nadyaaz",
+    "ip": "192.168.77.77",
+    "device": "Vivo V23"
+  },
+  {
+    "name": "Dian Permata",
+    "email": "dian@mail.com",
+    "address": "Cirebon",
+    "ig": "@dianptm",
+    "ip": "10.0.1.1",
+    "device": "Samsung A52"
+  },
+  {
+    "name": "Agung Setiawan",
+    "email": "agung@mail.com",
+    "address": "Bogor Tengah",
+    "ig": "@agungset",
+    "ip": "192.168.123.45",
+    "device": "Redmi 9T"
+  },
+  {
+    "name": "Farah Nabila",
+    "email": "farah@mail.com",
+    "address": "Tangerang Selatan",
+    "ig": "@farahnbl",
+    "ip": "10.1.1.1",
+    "device": "iPhone XR"
+  },
+  {
+    "name": "Galang Nugraha",
+    "email": "galang@mail.com",
+    "address": "Semarang",
+    "ig": "@galang_ngrh",
+    "ip": "172.16.0.5",
+    "device": "ASUS Zenfone 8"
+  },
+  {
+    "name": "Hana Rahma",
+    "email": "hana@mail.com",
+    "address": "Malang",
+    "ig": "@hana_rhm",
+    "ip": "192.168.100.1",
+    "device": "OPPO Reno5"
+  },
+  {
+    "name": "Bagas Ramadhan",
+    "email": "bagas@mail.com",
+    "address": "Palembang",
+    "ig": "@bagas_rmdhn",
+    "ip": "10.0.0.5",
+    "device": "Realme Narzo 50"
+  },
+  {
+    "name": "Citra Ayu",
+    "email": "citra@mail.com",
+    "address": "Makassar",
+    "ig": "@citraayu",
+    "ip": "192.168.10.10",
+    "device": "Samsung M31"
+  },
+  {
+    "name": "Ilham Prakoso",
+    "email": "ilham@mail.com",
+    "address": "Pekanbaru",
+    "ig": "@ilham_pks",
+    "ip": "172.17.0.2",
+    "device": "Vivo Y20"
+  },
+  {
+    "name": "Zahra Salma",
+    "email": "zahra@mail.com",
+    "address": "Kediri",
+    "ig": "@zahrasal",
+    "ip": "10.2.2.2",
+    "device": "iPhone SE"
+  },
+  {
+    "name": "Reza Nurdiansyah",
+    "email": "reza@mail.com",
+    "address": "Jambi",
+    "ig": "@rezand",
+    "ip": "192.168.20.20",
+    "device": "Samsung A32"
+  },
+  {
+    "name": "Melani Kusuma",
+    "email": "melani@mail.com",
+    "address": "Pontianak",
+    "ig": "@melaniksm",
+    "ip": "10.3.3.3",
+    "device": "Redmi Note 9"
+  },
+  {
+    "name": "Teguh Wibowo",
+    "email": "teguh@mail.com",
+    "address": "Padang",
+    "ig": "@teguhwbw",
+    "ip": "172.31.0.3",
+    "device": "Realme GT Neo"
+  },
+  {
+    "name": "Yuni Kartika",
+    "email": "yuni@mail.com",
+    "address": "Medan",
+    "ig": "@yunikart",
+    "ip": "192.168.0.99",
+    "device": "Oppo A76"
+  },
+  {
+    "name": "Fikri Haidar",
+    "email": "fikri@mail.com",
+    "address": "Batam",
+    "ig": "@fikrihdr",
+    "ip": "10.10.1.1",
+    "device": "Infinix Zero X"
+  },
+  {
+    "name": "Sinta Rahayu",
+    "email": "sinta@mail.com",
+    "address": "Tasikmalaya",
+    "ig": "@sintarhy",
+    "ip": "192.168.88.99",
+    "device": "Samsung A12"
+  },
+  {
+    "name": "Daffa Ardiansyah",
+    "email": "daffa@mail.com",
+    "address": "Bogor Selatan",
+    "ig": "@daffa_ardi",
+    "ip": "172.16.123.123",
+    "device": "Xiaomi Mi 11"
+  },
+  {
+    "name": "Annisa Rahmah",
+    "email": "annisa@mail.com",
+    "address": "Cilacap",
+    "ig": "@annrahmah",
+    "ip": "10.4.4.4",
+    "device": "Vivo Y33s"
+  },
+  {
+    "name": "Hendra Gunawan",
+    "email": "hendra@mail.com",
+    "address": "Serang",
+    "ig": "@hendraxx",
+    "ip": "192.168.5.5",
+    "device": "ASUS ROG Phone 5"
+  },
+  {
+    "name": "Ayu Larasati",
+    "email": "ayu@mail.com",
+    "address": "Solo",
+    "ig": "@ayulars",
+    "ip": "172.16.4.4",
+    "device": "Realme C25s"
+  },
+  {
+    "name": "Bima Pratama",
+    "email": "bima@mail.com",
+    "address": "Magelang",
+    "ig": "@bimapratm",
+    "ip": "10.10.10.20",
+    "device": "POCO M4 Pro"
+  },
+  {
+    "name": "Lia Ramadhani",
+    "email": "lia@mail.com",
+    "address": "Bengkulu",
+    "ig": "@liaram",
+    "ip": "192.168.100.100",
+    "device": "Infinix Hot 10"
+  },
+  {
+    "name": "Ardiansyah Putra",
+    "email": "ardian@mail.com",
+    "address": "Mataram",
+    "ig": "@ardiptr",
+    "ip": "172.18.0.1",
+    "device": "Samsung Galaxy M14"
+  },
+  {
+    "name": "Putri Aulia",
+    "email": "putri@mail.com",
+    "address": "Kalimantan Tengah",
+    "ig": "@putriaul",
+    "ip": "192.168.55.55",
+    "device": "Oppo Reno8"
+  }
+  // lanjutkan entri ke-31 dst...
+]
